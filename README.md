@@ -15,6 +15,7 @@
 [![Based On](https://img.shields.io/badge/Based%20On-numberonedz%2Ffiberhome--config--utility-orange?style=flat-square)](https://github.com/numberonedz/fiberhome-config-utility)
 
 </div>
+<img width="802" height="612" alt="image" src="https://github.com/user-attachments/assets/1b7a1390-7bea-4967-8d39-c2f480bdf442" />
 
 ---
 
