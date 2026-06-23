@@ -81,9 +81,14 @@ Generate the default hidden `superadmin` password for Algeria Telecom Fiberhome 
 - Input: the router's **MAC address** (found on the label on the back of the device)
 - Output: the generated superuser password
 - One-click **Copy to Clipboard** button
+### Option A — Download Ready-to-Use EXE (Windows)
+
+No Python needed. Download the pre-built executable directly:
+
+👉 **[Download Latest Release](https://github.com/CodexTech0X/FiberhomeConfigUtility/releases/tag/Release)**
 
 ---
-
+### Option B — Run from Source
 ## 🚀 Getting Started
 
 ### Requirements
